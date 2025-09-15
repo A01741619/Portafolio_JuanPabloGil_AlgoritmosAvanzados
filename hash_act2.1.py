@@ -1,3 +1,5 @@
+#Juan Pablo Gil, A01741619
+
 from pathlib import Path
 import sys
 import numpy as np       

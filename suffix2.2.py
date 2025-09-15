@@ -1,3 +1,5 @@
+#Juan Pablo Gil, A01741619
+
 def sufijosOrdenados(S):
     n = len(S)
     ListaSufijos = []
